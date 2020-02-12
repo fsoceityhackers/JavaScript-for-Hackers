@@ -1,0 +1,11 @@
+<html>
+
+     <body>
+             
+            <script>
+                      alert('Welcome JS Hackers');
+            </script>    
+
+     </body>
+
+</html>
