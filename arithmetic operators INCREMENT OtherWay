@@ -1,0 +1,11 @@
+<script>
+
+var x = 100;
+
+var y = 200;
+
+x++;
+
+alert(x);
+
+</script>
